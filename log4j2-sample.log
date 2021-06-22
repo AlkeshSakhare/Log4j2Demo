@@ -1,0 +1,8 @@
+2021-06-06T18:56:20,049 [main] INFO  (Log4J2PropertiesConf.java:11) - This is an info message
+2021-06-06T18:56:20,050 [main] WARN  (Log4J2PropertiesConf.java:12) - This is a warn message
+2021-06-06T18:56:20,050 [main] ERROR (Log4J2PropertiesConf.java:13) - This is an error message
+2021-06-06T18:56:20,050 [main] FATAL (Log4J2PropertiesConf.java:14) - This is a fatal message
+2021-06-06T19:18:40,221 [main] INFO  (Log4J2PropertiesConf.java:11) - This is an info message
+2021-06-06T19:18:40,222 [main] WARN  (Log4J2PropertiesConf.java:12) - This is a warn message
+2021-06-06T19:18:40,222 [main] ERROR (Log4J2PropertiesConf.java:13) - This is an error message
+2021-06-06T19:18:40,223 [main] FATAL (Log4J2PropertiesConf.java:14) - This is a fatal message
